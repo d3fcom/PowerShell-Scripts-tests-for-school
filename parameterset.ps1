@@ -6,4 +6,6 @@ function my-function
     
 }
 
-my-function -path C:\Users\MrL\Desktop\test -whatif
+my-function -path C:\Users\Admin\Desktop\test -whatif
+
+#change for other path 
