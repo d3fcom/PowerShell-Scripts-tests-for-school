@@ -4,11 +4,9 @@ $intfolders = 10
 $intPad = 0
 $i = 1
 
-
 $strPrefix = "testfolder"
 
 # Creating folders using a  DO loop
-
 
 Do {
     # Set If condition  , if I is less than 10 
