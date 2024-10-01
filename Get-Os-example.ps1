@@ -1,8 +1,5 @@
 Function Get-osVersion {
-
     (Get-WmiObject -Class Win32_operatingSystem).version
-    
-
 } 
 
 #end 
